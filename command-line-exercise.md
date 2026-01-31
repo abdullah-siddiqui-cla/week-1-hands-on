@@ -103,6 +103,8 @@ This exercise will help you practice basic command-line operations. Follow the i
 
 ---
 
+Change: I updated the tutorial file.
+
 ## Exercise 6: `cat` / `type` - Display File Contents
 
 **Task:** View file contents.
